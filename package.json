@@ -1,0 +1,27 @@
+{
+    "name": "pinea.colours",
+    "version": "0.1.0",
+    "private": true,
+    "module": "esnext",
+    "target": "nodenext",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start -p 6001",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@types/node": "20.6.2",
+        "@types/react": "18.2.21",
+        "@types/react-helmet": "^6.1.11",
+        "eslint": "8.49.0",
+        "eslint-config-next": "13.4.19",
+        "next": "13.4.19",
+        "react": "18.2.0",
+        "react-dom": "^18.2.0",
+        "react-helmet": "^6.1.0",
+        "react-rewards": "^2.0.4",
+        "sharp": "^0.32.6",
+        "typescript": "5.2.2"
+    }
+}
