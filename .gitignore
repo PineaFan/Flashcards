@@ -4,3 +4,16 @@ pnpm-lock.yaml
 .next
 next-env.d.ts
 .env
+.vercel
+.env.development.local
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
